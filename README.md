@@ -3,6 +3,7 @@
 Here's a list of project ideas that would be fun to do!
 
 * Write a Lisp interpreter (any language - maybe Scala?)
+  * Stage 2: Rewrite the Lisp interpreter in Lisp and upgrade to self hosting! 
 * Use Rust to compile a basic Lisp language to WebAssembly
   * [Crafting Interpreters](https://craftinginterpreters.com/a-bytecode-virtual-machine.html) Bytecode Virtual Machine section would be helpful for this
 * Finish your Clojure [Automata](https://github.com/mjftw/automata) project, adding the Push Down Automata implementation
