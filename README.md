@@ -1,4 +1,4 @@
-# Projects to Do
+# Project Ideas!
 
 Here's a list of project ideas that would be fun to do!
 
